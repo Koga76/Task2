@@ -14,6 +14,9 @@ public class Task_2 {
         System.out.println(var);
     }
 
+    //hello from git
+
+
     public static void oop(String var) {
         System.out.println(var);
     }
